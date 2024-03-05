@@ -1,5 +1,6 @@
 import React from 'react'
 
+// eslint-disable-next-line react/prop-types
 const Todo = ({todo}) => {
   return (
     <div className="todo">
