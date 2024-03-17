@@ -43,5 +43,5 @@ O **Lista de Tarefas** é uma aplicação simples desenvolvida em React que perm
 
 ## Capturas de Tela
 
-![Screenshot](/src/img/todo.gif)
+![Screenshot](/todo/src/img/todo.gif)
 
